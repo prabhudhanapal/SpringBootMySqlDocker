@@ -1,0 +1,4 @@
+C:\_java\19_SpringbootMysql\SpringBootMySQL\src\main\java\com\javasampleapproach\spring\mysql\SpringBootMySqlApplication.java
+C:\_java\19_SpringbootMysql\SpringBootMySQL\src\main\java\com\javasampleapproach\spring\mysql\model\Book.java
+C:\_java\19_SpringbootMysql\SpringBootMySQL\src\main\java\com\javasampleapproach\spring\mysql\repo\BookRepository.java
+C:\_java\19_SpringbootMysql\SpringBootMySQL\src\main\java\com\javasampleapproach\spring\mysql\controller\BookController.java

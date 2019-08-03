@@ -1,0 +1,4 @@
+com\javasampleapproach\spring\mysql\repo\BookRepository.class
+com\javasampleapproach\spring\mysql\controller\BookController.class
+com\javasampleapproach\spring\mysql\SpringBootMySqlApplication.class
+com\javasampleapproach\spring\mysql\model\Book.class
